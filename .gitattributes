@@ -1,7 +1,7 @@
 *.gprj linguist-vendored
 *.gprj.user linguist-vendored
 
-impl/* linguist-vendored
+impl/** linguist-vendored
 
 *.v linguist-language=Verilog
 *.vh linguist-language=Verilog
