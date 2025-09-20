@@ -1,0 +1,7 @@
+*.gprj linguist-vendored
+*.gprj.user linguist-vendored
+
+*.v linguist-language=Verilog
+*.vh linguist-language=Verilog
+*.vhd linguist-language=VHDL
+*.sv linguist-language=SystemVerilog
