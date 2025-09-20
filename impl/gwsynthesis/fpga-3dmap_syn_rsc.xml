@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="main" Register="20" Alu="9" Lut="21" T_Register="45(20)" T_Alu="1283(9)" T_Lut="216(21)">
+ <SubModule name="hdmi_pll"/>
+ <SubModule name="hdmi_clkdiv"/>
+ <SubModule name="pattern_drawer" Lut="12" T_Alu="1256(0)" T_Lut="75(12)">
+  <SubModule name="test1" Alu="95" Lut="12" T_Alu="95(95)" T_Lut="12(12)"/>
+  <SubModule name="test2" Alu="81" Lut="5" T_Alu="81(81)" T_Lut="5(5)"/>
+  <SubModule name="test3" Alu="82" Lut="3" T_Alu="82(82)" T_Lut="3(3)"/>
+  <SubModule name="test4" Alu="82" Lut="3" T_Alu="82(82)" T_Lut="3(3)"/>
+  <SubModule name="test5" Alu="81" T_Alu="81(81)"/>
+  <SubModule name="test6" Alu="81" Lut="7" T_Alu="81(81)" T_Lut="7(7)"/>
+  <SubModule name="test7" Alu="83" Lut="1" T_Alu="83(83)" T_Lut="1(1)"/>
+  <SubModule name="test8" Alu="85" Lut="2" T_Alu="85(85)" T_Lut="2(2)"/>
+  <SubModule name="test9" Alu="82" Lut="5" T_Alu="82(82)" T_Lut="5(5)"/>
+  <SubModule name="test10" Alu="82" Lut="3" T_Alu="82(82)" T_Lut="3(3)"/>
+  <SubModule name="test11" Alu="83" Lut="3" T_Alu="83(83)" T_Lut="3(3)"/>
+  <SubModule name="test12" Alu="82" Lut="4" T_Alu="82(82)" T_Lut="4(4)"/>
+  <SubModule name="test13" Alu="87" Lut="5" T_Alu="87(87)" T_Lut="5(5)"/>
+  <SubModule name="test14" Alu="83" Lut="4" T_Alu="83(83)" T_Lut="4(4)"/>
+  <SubModule name="test15" Alu="87" Lut="6" T_Alu="87(87)" T_Lut="6(6)"/>
+ </SubModule>
+ <SubModule name="encode_b" Register="9" Alu="4" Lut="18" T_Register="9(9)" T_Alu="4(4)" T_Lut="18(18)"/>
+ <SubModule name="encode_g" Register="10" Alu="10" Lut="96" T_Register="10(10)" T_Alu="10(10)" T_Lut="96(96)"/>
+ <SubModule name="encode_r" Register="6" Alu="4" Lut="6" T_Register="6(6)" T_Alu="4(4)" T_Lut="6(6)"/>
+</Module>

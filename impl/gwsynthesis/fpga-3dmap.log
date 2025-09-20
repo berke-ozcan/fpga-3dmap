@@ -1,0 +1,77 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v'
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v'
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v'
+Undeclared symbol 'feasible_all', assumed default net type 'wire'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":108)
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\tmds_encoder.v'
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\hdmi_pll\hdmi_pll.v'
+Analyzing Verilog file 'C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\hdmi_clkdiv\hdmi_clkdiv.v'
+Compiling module 'main'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":1)
+Compiling module 'hdmi_pll'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\hdmi_pll\hdmi_pll.v":10)
+Compiling module 'hdmi_clkdiv'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\hdmi_clkdiv\hdmi_clkdiv.v":10)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 10("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":37)
+WARN  (EX3791) : Expression size 11 truncated to fit in target size 10("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":40)
+Compiling module 'pattern_drawer'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":1)
+WARN  (EX3791) : Expression size 29 truncated to fit in target size 5("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":35)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":44)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":45)
+Compiling module 'draw_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":2)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":19)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":20)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":26)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":27)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":30)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":32)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 9("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":33)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 4("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":40)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 4("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":41)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 12("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":42)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 12("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":43)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 3("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":47)
+WARN  (EX3791) : Expression size 10 truncated to fit in target size 4("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":48)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 12("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":50)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 12("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\draw_triangle.v":51)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":49)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":53)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":56)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":59)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":63)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":66)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":69)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":72)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":76)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":79)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":82)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":85)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":89)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":99)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 4 for port 'i_th_triangle'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":103)
+WARN  (EX1998) : Net 'b_value[7]' does not have a driver("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":31)
+WARN  (EX1998) : Net 'r_value[7]' does not have a driver("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\pattern_drawer.v":31)
+Compiling module 'tmds_encoder'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\tmds_encoder.v":2)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 5("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\tmds_encoder.v":31)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'vsync'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":57)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'hsync'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":57)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'vsync'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":58)
+WARN  (EX3670) : Actual bit length 32 differs from formal bit length 1 for port 'hsync'("C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\src\main.v":58)
+NOTE  (EX0101) : Current top module is "main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\impl\gwsynthesis\fpga-3dmap.vg" completed
+[100%] Generate report file "C:\Users\berke\OneDrive\Documents\fpga projects\fpga-3dmap\impl\gwsynthesis\fpga-3dmap_syn.rpt.html" completed
+GowinSynthesis finish

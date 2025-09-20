@@ -1,0 +1,37 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/tmds_encoder.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/hdmi_pll/hdmi_pll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/hdmi_clkdiv/hdmi_clkdiv.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/impl/temp/rtl_parser.result",
+ "Top" : "main",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

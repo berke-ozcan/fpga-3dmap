@@ -1,0 +1,182 @@
+[
+ {
+  "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+  "InstLine" : 1,
+  "InstName" : "main",
+  "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "main",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 14,
+    "InstName" : "hdmi_pll",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/hdmi_pll/hdmi_pll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "hdmi_pll"
+   },
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 20,
+    "InstName" : "hdmi_clkdiv",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/hdmi_clkdiv/hdmi_clkdiv.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "hdmi_clkdiv"
+   },
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 52,
+    "InstName" : "pattern_drawer",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "pattern_drawer",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 49,
+      "InstName" : "test1",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 53,
+      "InstName" : "test2",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 56,
+      "InstName" : "test3",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 59,
+      "InstName" : "test4",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 63,
+      "InstName" : "test5",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 66,
+      "InstName" : "test6",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 69,
+      "InstName" : "test7",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 72,
+      "InstName" : "test8",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 76,
+      "InstName" : "test9",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 79,
+      "InstName" : "test10",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 82,
+      "InstName" : "test11",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 85,
+      "InstName" : "test12",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 89,
+      "InstName" : "test13",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 99,
+      "InstName" : "test14",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     },
+     {
+      "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/pattern_drawer.v",
+      "InstLine" : 103,
+      "InstName" : "test15",
+      "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/draw_triangle.v",
+      "ModuleLine" : 2,
+      "ModuleName" : "draw_triangle"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 56,
+    "InstName" : "encode_b",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/tmds_encoder.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "tmds_encoder"
+   },
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 57,
+    "InstName" : "encode_g",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/tmds_encoder.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "tmds_encoder"
+   },
+   {
+    "InstFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/main.v",
+    "InstLine" : 58,
+    "InstName" : "encode_r",
+    "ModuleFile" : "C:/Users/berke/OneDrive/Documents/fpga projects/fpga-3dmap/src/tmds_encoder.v",
+    "ModuleLine" : 2,
+    "ModuleName" : "tmds_encoder"
+   }
+  ]
+ }
+]

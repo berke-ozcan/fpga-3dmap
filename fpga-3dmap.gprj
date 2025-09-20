@@ -1,0 +1,16 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW1NR-9C" pn="GW1NR-LV9QN88PC6/I5">gw1nr9c-004</Device>
+    <FileList>
+        <File path="src/draw_triangle.v" type="file.verilog" enable="1"/>
+        <File path="src/hdmi_clkdiv/hdmi_clkdiv.v" type="file.verilog" enable="1"/>
+        <File path="src/hdmi_pll/hdmi_pll.v" type="file.verilog" enable="1"/>
+        <File path="src/main.v" type="file.verilog" enable="1"/>
+        <File path="src/pattern_drawer.v" type="file.verilog" enable="1"/>
+        <File path="src/tmds_encoder.v" type="file.verilog" enable="1"/>
+        <File path="src/fpga-3dmap.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>
